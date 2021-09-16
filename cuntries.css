@@ -1,0 +1,12 @@
+.cuntrey{
+    border: 2px solid tomato;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 5px;
+   
+}
+
+#cuntries-info{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
